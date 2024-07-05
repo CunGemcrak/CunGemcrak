@@ -15,4 +15,5 @@ CunGemcrak/CunGemcrak es un repositorio ✨ especial ✨ porque su `README.md` (
 Puedes hacer clic en el enlace de Vista Previa para ver tus cambios.
 --->
 
+![image](https://github.com/CunGemcrak/CunGemcrak/assets/142614397/b378b7f7-cb36-40a9-bc42-0ea302fb6185)
 
