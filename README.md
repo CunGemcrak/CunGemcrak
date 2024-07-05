@@ -17,5 +17,3 @@ Puedes hacer clic en el enlace de Vista Previa para ver tus cambios.
 
 ![image](https://github.com/CunGemcrak/CunGemcrak/assets/142614397/b378b7f7-cb36-40a9-bc42-0ea302fb6185)
 
-![henry](https://d2rf2c6bvm78n9.cloudfront.net/new-cert?id=c5b4ca5be041bb71b4c64bb0bb170971d95481c004074e99e96627ac574d747b)
-
