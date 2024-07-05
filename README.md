@@ -15,4 +15,4 @@ CunGemcrak/CunGemcrak es un repositorio ✨ especial ✨ porque su `README.md` (
 Puedes hacer clic en el enlace de Vista Previa para ver tus cambios.
 --->
 
-<img src="https://d2rf2c6bvm78n9.cloudfront.net/new-cert?id=c5b4ca5be041bb71b4c64bb0bb170971d95481c004074e99e96627ac574d747b"/>
+![Certillficado Full Stack - Henry](https://d2rf2c6bvm78n9.cloudfront.net/new-cert?id=c5b4ca5be041bb71b4c64bb0bb170971d95481c004074e99e96627ac574d747b)
